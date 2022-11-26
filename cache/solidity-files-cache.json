@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\josep\\Documents\\npm_project\\my-nft\\contracts\\MyNFT.sol": {
-      "lastModificationDate": 1669479202774,
-      "contentHash": "66f428f03608f055d422cb7e153f1a0b",
+      "lastModificationDate": 1669479325551,
+      "contentHash": "e0e3c06e1a42861d8ca626cebe6f542e",
       "sourceName": "contracts/MyNFT.sol",
       "solcConfig": {
         "version": "0.8.17",
